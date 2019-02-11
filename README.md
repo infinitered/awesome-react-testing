@@ -9,6 +9,7 @@ A collection of React and React Native testing tools and strategies.
 ### Jest
 Website: https://jestjs.io/
 Works on projects using: Babel, TypeScript, Node, React, Angular, Vue and more.  Based on Mocha
+Cheatsheet:  https://github.com/sapegin/jest-cheat-sheet
 
 #### Fetch Mock
 * [Jest Fetch Mock](https://github.com/jefflau/jest-fetch-mock)
