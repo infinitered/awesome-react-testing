@@ -6,28 +6,20 @@ A collection of React and React Native testing tools and strategies.
 
 # Unit Testing
 
-## Jest
+### Jest
 Website: https://jestjs.io/
 Works on projects using: Babel, TypeScript, Node, React, Angular, Vue and more.  Based on Mocha
 
-* [enzyme](https://github.com/airbnb/enzyme)
-* [chai-immutable](https://github.com/astorije/chai-immutable)
-
-
-#### React Testing Library
-* [React](https://github.com/kentcdodds/react-testing-library)
-* [React Native](https://github.com/callstack/react-native-testing-library)
-
-### Fetch Mock
+#### Fetch Mock
 * [Jest Fetch Mock](https://github.com/jefflau/jest-fetch-mock)
 
+More on Jest at [JEST-AWESOME](https://github.com/jest-community/awesome-jest)
 
 ### Frameworks
 
 * [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
 * [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
-* [jest](https://github.com/facebook/jest) - Painless Javascript Unit Testing.
 * [prova](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 * [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
 * [Protractor](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
@@ -38,19 +30,16 @@ Works on projects using: Babel, TypeScript, Node, React, Angular, Vue and more. 
 ### Assertion
 
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+* [chai-immutable](https://github.com/astorije/chai-immutable)
 * [Enzyme](http://airbnb.io/enzyme/index.html) - Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 * [react testing library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
+  * [React Native Version](https://github.com/callstack/react-native-testing-library)
 * [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 
-### Coverage
-
-* [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
-* [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
-* [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
-
 ### Runner
 
+WEB:
 * [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 * [casperjs](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
@@ -117,7 +106,10 @@ React
 * [buddy.js](https://github.com/danielstjules/buddy.js)
 
 # Coverage Reporting
-* [CodeCov](https://codecov.io/)
+* [CodeCov](https://codecov.io/) - Coverage reporting service.
+* [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
+* [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
+* [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 
 # Chaos Testing
 * [Psuedo-localization](https://github.com/tryggvigy/pseudo-localization)
