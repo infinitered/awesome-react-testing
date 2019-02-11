@@ -10,7 +10,11 @@ A collection of React and React Native testing tools and strategies.
 Website: https://jestjs.io/
 Works on projects using: Babel, TypeScript, Node, React, Angular, Vue and more.  Based on Mocha
 
-### React Testing Library
+* [enzyme](https://github.com/airbnb/enzyme)
+* [chai-immutable](https://github.com/astorije/chai-immutable)
+
+
+#### React Testing Library
 * [React](https://github.com/kentcdodds/react-testing-library)
 * [React Native](https://github.com/callstack/react-native-testing-library)
 
@@ -20,8 +24,6 @@ Works on projects using: Babel, TypeScript, Node, React, Angular, Vue and more. 
 # Regression Testing
 * [storyshots](https://github.com/storybooks/storybook/tree/next/addons)
 * [testStateMachine in react-automata](https://github.com/MicheleBertoli/react-automata)
-
-# Integration Testing
 
 
 # Blackbox Testing
