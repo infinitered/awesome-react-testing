@@ -1,0 +1,34 @@
+{
+  "name": "awesome-react-testing",
+  "version": "1.0.0",
+  "description": "A place for all docs/links/info and examples for React testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update:toc": "doctoc .",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinitered/awesome-react-testing.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "React",
+    "Testing"
+  ],
+  "author": "Gant Laborde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infinitered/awesome-react-testing/issues"
+  },
+  "homepage": "https://github.com/infinitered/awesome-react-testing#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "doctoc": "^1.4.0",
+    "all-contributors-cli": "^6.1.1"
+  }
+}
