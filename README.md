@@ -8,19 +8,18 @@ A collection of React and React Native testing tools and strategies.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Awesome React Testing](#awesome-react-testing)
 - [Unit Testing](#unit-testing)
-    - [Jest](#jest)
-      - [Fetch Mock](#fetch-mock)
-    - [Frameworks](#frameworks)
-    - [Assertion](#assertion)
-    - [Runner](#runner)
+  - [Jest](#jest)
+    - [Fetch Mock](#fetch-mock)
+  - [Other Frameworks](#other-frameworks)
+  - [Assertion](#assertion)
+  - [Runner](#runner)
 - [Regression Testing](#regression-testing)
 - [Blackbox Testing](#blackbox-testing)
 - [Greybox Testing](#greybox-testing)
 - [Linters](#linters)
-    - [Regular](#regular)
-    - [A11y](#a11y)
+  - [Regular](#regular)
+  - [A11y](#a11y)
 - [Maintence Managers](#maintence-managers)
 - [Environment Helpers](#environment-helpers)
 - [Performance](#performance)
@@ -29,6 +28,7 @@ A collection of React and React Native testing tools and strategies.
 - [Chaos Testing](#chaos-testing)
 - [Production Checking / Testing](#production-checking--testing)
 - [Audits](#audits)
+- [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -46,7 +46,7 @@ Cheatsheet:  https://github.com/sapegin/jest-cheat-sheet
 
 More on Jest at [JEST-AWESOME](https://github.com/jest-community/awesome-jest)
 
-### Frameworks
+### Other Frameworks
 
 * [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
 * [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
