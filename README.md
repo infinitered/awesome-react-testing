@@ -34,7 +34,7 @@ A collection of React and React Native testing tools and strategies.
 
 
 
-# Unit Testing
+## Unit Testing
 
 ### Jest
 Website: https://jestjs.io/
@@ -83,17 +83,20 @@ WEB:
 
 
 
-# Regression Testing
+## Regression Testing
 * [storyshots](https://github.com/storybooks/storybook/tree/next/addons)
 * [testStateMachine in react-automata](https://github.com/MicheleBertoli/react-automata)
 
+React Native
+* [react-native-view-shot](https://github.com/gre/react-native-view-shot)
 
-# Blackbox Testing
+
+## Blackbox Testing
 
 React Native
 * [Appium](http://appium.io/)
 
-# Greybox Testing
+## Greybox Testing
 
 React
 * [Cypress](https://www.cypress.io/)
@@ -101,7 +104,7 @@ React
 React Native
 * [Detox](https://github.com/wix/Detox)
 
-# Linters
+## Linters
 
 ### Regular
 * [ESLint](https://github.com/eslint/eslint)
@@ -114,35 +117,35 @@ React Native
 * [jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
 * [react-native-a11y](https://github.com/FormidableLabs/eslint-plugin-react-native-a11y)
 
-# Maintence Managers
+## Maintence Managers
 * [DangerJS](https://github.com/danger/danger)
 * [GreenKeeper.io](https://greenkeeper.io/)
 * [Dependabot](https://dependabot.com/)
 * [updtr](https://github.com/peerigon/updtr)
 * [Madge](https://github.com/pahen/madge)
 
-# Environment Helpers
+## Environment Helpers
 * [Solidarity](https://github.com/infinitered/solidarity)
 * [EnvInfo](https://github.com/tabrindle/envinfo)
 
-# Performance
+## Performance
 * [BenchmarkJS]()https://benchmarkjs.com/)
 
 React
 * [Web Page Test](https://www.webpagetest.org/)
 * [Insights](https://developers.google.com/speed/pagespeed/insights/)
 
-# Quality Checks
+## Quality Checks
 * [JS Inspect](https://github.com/danielstjules/jsinspect)
 * [buddy.js](https://github.com/danielstjules/buddy.js)
 
-# Coverage Reporting
+## Coverage Reporting
 * [CodeCov](https://codecov.io/) - Coverage reporting service.
 * [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
 * [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
 * [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 
-# Chaos Testing
+## Chaos Testing
 * [Psuedo-localization](https://github.com/tryggvigy/pseudo-localization)
 * [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [testcheck-js](https://github.com/leebyron/testcheck-js)
@@ -156,7 +159,7 @@ Web
 App
 * [ClusterFuzz](https://github.com/google/clusterfuzz)
 
-# Production Checking / Testing
+## Production Checking / Testing
 
 Web
 * [Honeybadger](https://www.honeybadger.io/)
@@ -168,7 +171,7 @@ Mobile
 * [App Center](https://appcenter.ms)
 * [Bug Snag](https://docs.bugsnag.com/platforms/react-native/)
 
-# Audits
+## Audits
 * [jsx-info](https://www.youtube.com/watch?v=e_vtfYJW9aM&feature=youtu.be)
 
 Web
