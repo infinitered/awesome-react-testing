@@ -165,6 +165,7 @@ These tools automate tedious tasks like dependency upgrades.
 * [GreenKeeper.io](https://greenkeeper.io/)
 * [Dependabot](https://dependabot.com/)
 * [updtr](https://github.com/peerigon/updtr)
+* [npm-check](https://github.com/dylang/npm-check)
 * [Madge](https://github.com/pahen/madge)
 
 ## Environment Helpers
