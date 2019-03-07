@@ -167,6 +167,7 @@ These tools automate tedious tasks like dependency upgrades.
 * [updtr](https://github.com/peerigon/updtr)
 * [npm-check](https://github.com/dylang/npm-check)
 * [Madge](https://github.com/pahen/madge)
+* [Renovate](https://github.com/renovatebot/renovate)
 
 ## Environment Helpers
 
