@@ -115,6 +115,7 @@ For web:
 For React Native:
 
 * [react-native-view-shot](https://github.com/gre/react-native-view-shot)
+* [Sherlo](https://sherlo.io) - Visual testing platform for React Native Storybook that captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 
 
 ## Blackbox Testing
