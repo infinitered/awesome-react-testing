@@ -45,6 +45,7 @@ For web:
 For React Native:
 
 * [Testing React Native Apps](https://jestjs.io/docs/en/tutorial-react-native) - Jest guide to React Native app testing
+* [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/react-native-testing) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Unit Testing
 
