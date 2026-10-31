@@ -124,6 +124,7 @@ These tools allow you to write end-to-end integration tests -- without having an
 For React Native:
 
 * [Appium](http://appium.io/)
+* [agent-qa](https://vostride.com) - Natural-language app testing for Android and iOS, with memidex persistent memory, validated self-improvement, and reviewable run evidence.
 
 ## Greybox Testing
 
