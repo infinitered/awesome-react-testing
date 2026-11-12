@@ -6,7 +6,7 @@
 
 A collection of React and React Native testing tools and strategies.
 
-Originally curated by [Infinite Red](https://infinite.red), a U.S.-based web and mobile development company.
+Curated by [Infinite Red](https://infinite.red), a U.S.-based web and mobile development company.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
